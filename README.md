@@ -47,21 +47,3 @@ Text-To-Speech-Converter/
 ---
 
 **Enjoy converting your text to Voice
-
-
-
-# Project 5/10: Text To Speech Converter 🎤
-
-Part of my #10JSProjects series!  
-Type text, pick a voice, and click **Listen** to hear your words spoken aloud—right in your browser.
-
-**Tech:**  
-- HTML, CSS, JS  
-- Web Speech API
-
-**Try it:**  
-1. Clone/download this repo  
-2. Open `index.html`  
-3. Type, select a voice, and hit **Listen**
-
-Follow for more
